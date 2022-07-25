@@ -1,0 +1,63 @@
+body{
+    background: rgb(170, 148, 148);
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+}
+header{
+    background-color: rgba(10, 6, 6, 0.479);
+}
+#jogo{
+    background-color: rgb(182, 148, 105);
+    display: block;
+    width: 648px;
+    height: 648px;
+    border: solid 10px rgb(182, 148, 105);
+    text-align: center;
+    margin: 50px auto auto;
+    border-radius: 10px;
+}
+.casa{
+    width: 150px;
+    height: 150px;
+    float: left;
+    font-size: 35px;
+    text-align: justify;
+    background-color: rgb(220, 182, 132);
+    border: 6px solid rgb(182, 148, 105);
+    border-radius: 20px ;  
+}
+.n2{
+    background-image: url('img/2.png');
+}
+.n4{
+    background-image: url('img/4.png');
+}
+.n8{
+    background-image: url('img/8.png');
+}
+.n16{
+    background-image: url('img/16.png');
+}
+.n32{
+    background-image: url('img/32.png');
+}
+.n64{
+    background-image: url('img/64.png');
+}
+.n128{
+    background-image: url('img/128.png');
+}
+.n256{
+    background-image: url('img/256.png');
+}
+.n512{
+    background-image: url('img/512.png');
+}
+.n1024{
+    background-image: url('img/1024.png');
+}
+.n2048{
+    background-image: url('img/2048.png');
+}
